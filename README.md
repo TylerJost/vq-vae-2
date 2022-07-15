@@ -1,5 +1,7 @@
 # vq-vae-2-pytorch
-Implementation of Generating Diverse High-Fidelity Images with VQ-VAE-2 in PyTorch
+Implementation of Generating Diverse High-Fidelity Images with VQ-VAE-2 in PyTorch forked from [rosinality here](https://github.com/rosinality/vq-vae-2-pytorch). 
+
+These are my files testing out using this as there is not much documentation. I will try to provide more as necessary. 
 
 ## Update
 
